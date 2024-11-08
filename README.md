@@ -1,1 +1,1 @@
-# Movie-Recommender-System-with-GUI
+# Movie Recommender System (with GUI)
