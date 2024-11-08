@@ -1,4 +1,4 @@
 # Movie Recommender System (with GUI)
 
-## Ouput:
+## Output:
 /assets/Output.png
