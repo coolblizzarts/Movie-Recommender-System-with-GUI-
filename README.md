@@ -1,4 +1,4 @@
 # Movie Recommender System (with GUI)
 
 ## Output:
-/assets/Output.png
+![Output Image](Output.png)
